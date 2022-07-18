@@ -1,5 +1,6 @@
 # 👋 Hello there! I'm Dmitry Klimkin
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
 Welcome to my page!
 I'm Dmitry, student from <img src="https://cdn-icons-png.flaticon.com/512/323/323300.png" width="13"/> Moscow, Russia, currently studying in <a href="https://www.hse.ru/en/">HSE</a>.
 
