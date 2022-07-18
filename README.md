@@ -16,7 +16,8 @@
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Open Source projects
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dipvincer)](https://github.com/ryo-ma/github-profile-trophy)
+<h2>🏆GitHub Trophy</h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dipvincer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## You can find me on:
 <a href="https://vk.com/thats_impossible"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="30"/></a>
