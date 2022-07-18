@@ -17,7 +17,7 @@ I'm Dmitry, student from <img src="https://cdn-icons-png.flaticon.com/512/323/32
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Open Source projects
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dipvincer)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## You can find me on:
 <a href="https://vk.com/thats_impossible"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="30"/></a>
