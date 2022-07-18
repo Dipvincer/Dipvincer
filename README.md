@@ -17,6 +17,7 @@
 - 💞️ I’m looking to collaborate on Open Source projects
 
 <h2>🏆GitHub Trophy</h2>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dipvincer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## You can find me on:
