@@ -16,6 +16,10 @@
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Open Source projects
 
+<h2>⌨Used Languages</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipvincer)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>🏆GitHub Trophy</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dipvincer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
