@@ -20,9 +20,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipvincer)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>🏆GitHub Trophy</h2>
+<h2>🏆GitHub Stats</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dipvincer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipvincer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## You can find me on:
 <a href="https://vk.com/thats_impossible"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="30"/></a>
