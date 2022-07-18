@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Dmitry</a> 
+<h1 align="center">Hi there, I'm <a href="https://vk.com/thats_impossible" target="_blank">Dmitry</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -10,8 +10,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
-Welcome to my page!
-I'm Dmitry, student from <img src="https://cdn-icons-png.flaticon.com/512/323/323300.png" width="13"/> Moscow, Russia, currently studying in <a href="https://www.hse.ru/en/">HSE</a>.
+<h2 align="center">Welcome to my page!</h2>
+<span>I'm Dmitry, student from <img src="https://cdn-icons-png.flaticon.com/512/323/323300.png" width="13"/> Moscow, Russia, currently studying in <a href="https://www.hse.ru/en/">HSE</a>.</span>
 
 - 👀 I’m interested in AR and ML technologies
 - 🌱 I’m currently learning Kotlin
