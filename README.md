@@ -24,6 +24,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipvincer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![codewars](https://www.codewars.com/users/Dipvincer/badges/large)](https://www.codewars.com/users/Dipvincer)
+
 ## You can find me on:
 <a href="https://vk.com/thats_impossible"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="30"/></a>
 <a href="https://github.com/Dipvincer"><img src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg" width="32"/></a>
