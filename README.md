@@ -37,7 +37,7 @@
 
 <h2>📃Looking for my Resume?</h2>
 
-- English: <a href="https://github.com/Dipvincer/Dipvincer/blob/main/CVDmitryKlimkin">Resume</a> 
+- English: <a href="https://github.com/Dipvincer/Dipvincer/blob/main/CVDmitryKlimkin.pdf">Resume</a> 
 
 <h2>🏆GitHub Stats</h2>
 
